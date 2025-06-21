@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment and virtualenvs
+.venv/
+env/
+venv/
+heartapi/
+
+# Python metadata
+*.egg-info/
+*.eggs/
+
+# Model artifacts
+*.pkl
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

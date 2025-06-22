@@ -28,7 +28,7 @@ HeartPredictionAPI/
 
 ## Dataset
 
-The dataset is taken from [Kaggele](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), which includes clinical features such as:
+The dataset is taken from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), which includes clinical features such as:
 
 - Age, sex, chest pain type (`cp`), resting blood pressure (`trestbps`), cholesterol (`chol`)
 - Fasting blood sugar (`fbs`), ECG (`restecg`), max heart rate (`thalach`)

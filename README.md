@@ -6,7 +6,7 @@ A machine learning project to predict the presence of heart disease using clinic
 
 ## Overview
 
-This project builds and serves a machine learning model to predict the likelihood of heart disease based on patient information such as age, cholesterol level, chest pain type, and more. It uses a Support Vector Machine (SVM) trained on publicly available clinical data and exposes a RESTful API using FastAPI.
+This project builds and serves a machine learning model to predict the likelihood of heart disease based on patient information such as age, cholesterol level, chest pain type, and more. It uses a Support Vector Machine (SVM) trained on publicly available clinical data and exposes a RESTful API using FastAPI. The application is fully Dockerized, enabling seamless deployment in any environment that supports containers.
 
 ---
 

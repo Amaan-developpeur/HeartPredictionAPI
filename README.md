@@ -1,6 +1,6 @@
 # Heart Disease Predictor API
 
-A machine learning project to predict the presence of heart disease using clinical and demographic data, deployed using a FastAPI backend and optionally containerized with Docker.
+A machine learning project to predict the presence of heart disease using clinical and demographic data, deployed using a FastAPI backend and containerized with Docker.
 
 ---
 

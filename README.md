@@ -161,9 +161,7 @@ See `requirements.txt` for exact versions. Core dependencies include:
 
 ---
 
-## License
 
-This project is released under the MIT License.
 
 ---
 
